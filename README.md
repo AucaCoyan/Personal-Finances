@@ -20,7 +20,7 @@ A collection of notebooks to help me with my finnaces
 [Use](#use) •
 [Contributing](#contributing)
 
-![Alt text](Photo link)
+![Alt text](https://raw.githubusercontent.com/AucaCoyan/Personal-Finances/main/img/Screenshot%20from%202022-03-28%2008-50-35.png)
 
 </div>
 
