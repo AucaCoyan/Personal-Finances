@@ -2,7 +2,7 @@
 
 # Personal-Finances
 
-A collection of notebooks to help me with my finnaces
+A collection of notebooks to help me with my finances
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/AucaCoyan/Personal-Finances)
 ![Lines of code](https://img.shields.io/tokei/lines/github/AucaCoyan/Personal-Finances)
