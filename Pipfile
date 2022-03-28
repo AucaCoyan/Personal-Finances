@@ -13,6 +13,7 @@ yfinance = "*"
 matplotlib = "*"
 jinja2 = "*"
 ipykernel = "*"
+requests = "*"
 
 [dev-packages]
 ipykernel = "*"
